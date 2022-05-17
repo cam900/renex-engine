@@ -1,5 +1,7 @@
 renex engine is copyright (c) 2022 renex
 
+forked and modified by cam900
+
 with "it" being renex engine, "you" being, well, you, and "me" being renex
 
 what you CAN do:
